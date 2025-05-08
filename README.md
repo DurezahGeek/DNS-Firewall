@@ -1,4 +1,4 @@
-# Desafio: Configuração de DNS e Firewall com Cisco Packet Tracer
+# Projeto Cisco Packet Tracer: Configuração de DNS e Firewall 
 
 ## 📘 Sobre o Projeto
 
